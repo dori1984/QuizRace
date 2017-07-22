@@ -14,7 +14,13 @@ QuizRace repository
 
 
 - Trivia REST Client
+  -- Decide on a REST libary
+  -- Test the Trivia API via browser
+  -- Create a client via Swagger
+  -- Create a test client for retrieving data in java
+  -- Convert json data into Question Object
 
 - Game Server API
+
 
 - FrontEnd
