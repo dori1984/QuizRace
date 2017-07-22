@@ -1,4 +1,20 @@
 # QuizRace
 QuizRace repository
 
-Just editing the file to check how the commits work.
+--ToDO list---
+
+- Game Server
+  -- Field Object
+  -- Game Object
+    ---createGame()
+    ---addPlayer()
+    ---move()
+  -- Player Object
+    ---createPlayer()
+
+
+- Trivia REST Client
+
+- Game Server API
+
+- FrontEnd
