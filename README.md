@@ -6,15 +6,15 @@ QuizRace repository
 - Game Server
   -- Field Object
   -- Game Object
-    ---createGame()
-    ---addPlayer()
-    ---move()
+    --- createGame()
+    --- addPlayer()
+    --- move()
   -- Player Object
     ---createPlayer()
 
 
 - Trivia REST Client
-  -- Decide on a REST libary
+  -- Decide on a REST library
   -- Test the Trivia API via browser
   -- Create a client via Swagger
   -- Create a test client for retrieving data in java
